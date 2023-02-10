@@ -1,0 +1,278 @@
+========== HEADER ==========
+.nav__logo
+Matheus Muniz
+
+.nav__link
+Home - Skills - Qualification - Services - Projects - Contact
+
+
+========== HOME ==========
+.home__title
+ Hi, I'm Matheus Muniz<br>
+a Brazilian <br>
+Data Analyst <br>
+
+.home__social
+https://www.linkedin.com/in/math-muniz/
+https://github.com/Math-Muniz
+https://blue-rodent-745.notion.site/Matheus-Muniz-Data-Analyst-0a476444c088414c81425e593220c971
+
+.home__info-title
+BIOGRAPHY
+CONTACT
+SERVICES
+YEARS OF EXPERIENCE
+COMPLETED PROJECTS
+COMPANIES WORKED
+
+.home__info-description .home__info-number
+I am a passionate IT professional with expertise in data analytics,
+honed through international experience and advanced education.
+I am skilled in developing data-driven solutions.
+I am ready to take on new challenges in the data field.
+
+Minas Gerais, Brasil. <br>
+math.munizmd90@gmail.com <br>
++55 (21)97695-0815 <br>
+
+Data Analyst <br>
+Data Science <br>
+Data Engineer <br>
+
+02+
+
+21+
+
+02+
+
+
+========== SKILLS ==========
+.section__title
+Skills
+
+.section__subtitle
+My favorite skills
+
+.skills__title
+Data Analysis and Visualization
+Data Infrastructure
+
+.skills__name .skills__subtitle
+Python
+Intermediate
+
+Excel
+Intermediate
+
+JavaScript
+Intermediate
+
+PowerBI
+Intermediate
+
+Git
+Intermediate
+
+Tableau
+Intermediate
+
+MySQL
+Intermediate
+
+PostgreSQL
+Intermediate
+
+MongoDB
+Intermediate
+
+Apache
+Intermediate
+
+Linux
+Intermediate
+
+GCP/AWS
+Intermediate
+
+========== QUALIFICATION ==========
+.section__title
+Qualification
+
+.section__subtitle
+Experience & education
+
+.qualification__title
+Education
+Work
+
+.qualification__name .qualification__country .qualification__year
+Specialization in Data Science
+Brasil - Awari
+Fev 2022 - Out 2022
+
+Graduate Certificate Program in Data Science and Big Data Analytics
+Brasil - University Estácio de Sá
+Jan 2021 - Dez 2021
+
+Bachelor's Degree in Systems Analysis and Development
+Brasil - University Estácio de Sá
+2016-2019
+
+
+Service Provision
+Brasil - Art Nit Papelaria
+10/2021 - 12/2021
+
+Technical Assistant
+Brasil - Mac Centris Service Ltda.
+07/2019 - 10/2021
+
+
+========== SERVICES ==========
+.section__title
+Services
+
+.section__subtitle
+What i offer
+
+.services__title .services__description
+Data Analysis <br>
+Service that provides comprehensive and in-depth analysis of data, leveraging cutting-edge tools and techniques to deliver actionable insights and drive business growth.
+
+Data Science <br>
+Service that combines statistical analysis, machine learning, and domain expertise to extract insights and knowledge from structured and unstructured data.
+
+Data Engineer <br>
+Service that focuses on designing, building, and maintaining the infrastructure needed to store, process, and analyze large amounts of data.
+
+
+========== PROJECTS ==========
+.section__title
+Projects
+
+.section__subtitle
+Most recent work
+
+
+.projects__subtitle .projects__title .projects__button
+Data Analysis
+Olympics Analysis
+View demo
+
+Data Visualization
+Data Jobs
+
+Data Science
+Movie Recommender
+
+Data Infrastructure
+Snowflake to Tableau
+
+========== TESTIMONIAL ==========
+.section__title
+Testimonial
+
+.section__subtitle
+My client saying
+
+.testimonial__description .testimonial__name .testimonial__subtitle
+ I'm a Brazilian IT professional with 2+ years of experience in administration and team management. I have recently completed a Graduate Certificate Program in Data Science and Big Data Analytics and has experience working with Unix systems. I have advanced proficiency in English and basic/middle proficiency in Spanish and French. 
+
+📌R Language <br>
+📌SQL Server <br>
+📌Html <br>
+📌CSS <br>
+📌Java <br>
+📌C++ <br>
+
+
+📌 Planner <br>
+📌 Analytical <br>
+📌 Detail Oriented <br>
+📌 Observer <br>
+📌 Systemic View of Process <br>
+
+
+========== CONTACT ==========
+.section__title
+Contact Me
+
+.section__subtitle
+Get in touch
+
+.contact__title
+Talk to me
+Write me your project
+
+.contact__data-title .contact__data-info .contact__button
+Email
+math.munizmd90@gmail.com
+
+Whatsapp
++55 (21)97695-0815
+Write me
+
+<!-- Insert a real number plus country code -->
+https://api.whatsapp.com/send?phone=5521976950815&text=Hello, Matheus! I want more information.
+
+Messenger
+@math.muniz
+Write me
+
+<!-- Insert your brand name or profile -->
+https://m.me/math.muniz
+
+.contact__form-tag | placeholder
+Names
+Write your names
+
+Mail
+Write your email
+
+Project
+Write your project
+
+.contact__button
+Submit
+
+========== EMAIL JS CONTACT ==========
+
+// Check if the field has a value
+	// Add and remove color
+
+	// Show message	
+		Write all the input fields 
+
+// serviceID - templateID - #form - publicKey
+	// Show message and add color
+		Message sent 
+	
+	// Remove message after five seconds
+
+	// Send Error
+		OOPS! SOMETHING HAS FAILED...
+
+// To clear the input field
+========== FOOTER ==========
+.footer__title
+Matheus Muniz Damasco
+
+<p>
+Data Analysis
+
+.footer__link
+Home
+Skills
+Projects
+
+.footer__social-link
+https://www.linkedin.com/in/math-muniz/
+https://github.com/Math-Muniz
+https://blue-rodent-745.notion.site/Matheus-Muniz-Data-Analyst-0a476444c088414c81425e593220c971
+
+.footer__copy
+&#169; Copyright Matheus Muniz Damasco. All rights reserved
+
+
+
+
