@@ -26,6 +26,6 @@ The .svg files are here - https://worldvectorlogo.com/
 
 ## Site Link
 
-[Site](portfolio-math-muniz.netlify.app)
+[Site](https://portfolio-math-muniz.netlify.app/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7b636ad4-e8d4-4db2-b239-e233c62abf95/deploy-status)](https://app.netlify.com/sites/tiny-capybara-415340/deploys)
